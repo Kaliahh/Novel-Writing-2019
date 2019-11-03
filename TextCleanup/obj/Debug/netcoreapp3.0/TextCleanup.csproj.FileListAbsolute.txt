@@ -1,0 +1,11 @@
+C:\Users\aneso\Documents\GitHub\Novel-Writing-2019\TextCleanup\bin\Debug\netcoreapp3.0\TextCleanup.exe
+C:\Users\aneso\Documents\GitHub\Novel-Writing-2019\TextCleanup\bin\Debug\netcoreapp3.0\TextCleanup.deps.json
+C:\Users\aneso\Documents\GitHub\Novel-Writing-2019\TextCleanup\bin\Debug\netcoreapp3.0\TextCleanup.runtimeconfig.json
+C:\Users\aneso\Documents\GitHub\Novel-Writing-2019\TextCleanup\bin\Debug\netcoreapp3.0\TextCleanup.runtimeconfig.dev.json
+C:\Users\aneso\Documents\GitHub\Novel-Writing-2019\TextCleanup\bin\Debug\netcoreapp3.0\TextCleanup.dll
+C:\Users\aneso\Documents\GitHub\Novel-Writing-2019\TextCleanup\bin\Debug\netcoreapp3.0\TextCleanup.pdb
+C:\Users\aneso\Documents\GitHub\Novel-Writing-2019\TextCleanup\obj\Debug\netcoreapp3.0\TextCleanup.csprojAssemblyReference.cache
+C:\Users\aneso\Documents\GitHub\Novel-Writing-2019\TextCleanup\obj\Debug\netcoreapp3.0\TextCleanup.AssemblyInfoInputs.cache
+C:\Users\aneso\Documents\GitHub\Novel-Writing-2019\TextCleanup\obj\Debug\netcoreapp3.0\TextCleanup.AssemblyInfo.cs
+C:\Users\aneso\Documents\GitHub\Novel-Writing-2019\TextCleanup\obj\Debug\netcoreapp3.0\TextCleanup.dll
+C:\Users\aneso\Documents\GitHub\Novel-Writing-2019\TextCleanup\obj\Debug\netcoreapp3.0\TextCleanup.pdb
