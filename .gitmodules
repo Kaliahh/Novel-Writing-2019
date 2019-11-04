@@ -1,0 +1,2 @@
+[submodule "training-charRNN"]
+	url = https://github.com/ml5js/training-charRNN
